@@ -1,1 +1,3 @@
 **_backup_auto-*
+.env
+.envrc
