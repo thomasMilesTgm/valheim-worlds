@@ -21,4 +21,3 @@ cd /home/user/.local/share/Steam/steamapps/common/Valheim\ dedicated\ server
 	-crossplay \
 
 export LD_LIBRARY_PATH=$templdpath
-
